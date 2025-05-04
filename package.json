@@ -11,6 +11,8 @@
   "author": "TarunDon",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.14.1",
+    "nodemon": "^3.1.10"
   }
 }
